@@ -2,10 +2,10 @@
 
 **Автоматически обновляемый сервис для обхода блокировок**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/your-username/bps/releases)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)](https://github.com/your-username/bps)
-[![Auto Update](https://img.shields.io/badge/auto_update-✓-success?style=for-the-badge)](https://github.com/your-username/bps)
-[![Background](https://img.shields.io/badge/background_mode-✓-success?style=for-the-badge)](https://github.com/your-username/bps)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/twosleepynights0x1/bps/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)](https://github.com/twosleepynights0x1/bps)
+[![Auto Update](https://img.shields.io/badge/auto_update-✓-success?style=for-the-badge)](https://github.com/twosleepynights0x1/bps)
+[![Background](https://img.shields.io/badge/background_mode-✓-success?style=for-the-badge)](https://github.com/twosleepynights0x1/bps)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 ## 📖 О проекте
